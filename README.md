@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Passed-brightgreen?style=for-the-badge)
-كيف
 
 ## Project Overview
 
