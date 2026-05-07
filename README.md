@@ -34,5 +34,5 @@ Version Control: Git & GitHub
 
 The suite currently executes 10 test cases with a 100% pass rate.
 
-## 📊 Test Execution Results
+##  Test Execution Results
 ![Test Results](results.png.bmp)
